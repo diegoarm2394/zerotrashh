@@ -1,0 +1,8 @@
+{
+  "name": "ionic_jokes",
+  "app_id": "a8bc3947",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
